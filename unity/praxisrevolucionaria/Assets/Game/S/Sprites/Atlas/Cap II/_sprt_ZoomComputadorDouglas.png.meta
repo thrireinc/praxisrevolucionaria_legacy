@@ -1,0 +1,498 @@
+fileFormatVersion: 2
+guid: 6ddc260183ba75b46a765ce9cc0184e1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8342718153081037409
+    second: _sprt_ZoomComputadorDouglas_0
+  - first:
+      213: -4081186503788627617
+    second: _sprt_ZoomComputadorDouglas_1
+  - first:
+      213: -4364028411089624892
+    second: _sprt_ZoomComputadorDouglas_2
+  - first:
+      213: -5376354660248436745
+    second: _sprt_ZoomComputadorDouglas_3
+  - first:
+      213: 4919654535068297546
+    second: _sprt_ZoomComputadorDouglas_4
+  - first:
+      213: -5113734346914892687
+    second: _sprt_ZoomComputadorDouglas_5
+  - first:
+      213: -7061937429298615660
+    second: _sprt_ZoomComputadorDouglas_6
+  - first:
+      213: -2293709665581211834
+    second: _sprt_ZoomComputadorDouglas_7
+  - first:
+      213: -2187591873046060248
+    second: _sprt_ZoomComputadorDouglas_8
+  - first:
+      213: -7123307768752607163
+    second: _sprt_ZoomComputadorDouglas_9
+  - first:
+      213: 1459204706653613370
+    second: _sprt_ZoomComputadorDouglas_10
+  - first:
+      213: 6485323716874551317
+    second: _sprt_ZoomComputadorDouglas_11
+  - first:
+      213: -7969707587650285250
+    second: _sprt_ZoomComputadorDouglas_12
+  - first:
+      213: 4308599751047015353
+    second: _sprt_ZoomComputadorDouglas_13
+  - first:
+      213: -4814681185936417377
+    second: _sprt_ZoomComputadorDouglas_14
+  - first:
+      213: 7179961604530069892
+    second: _sprt_Nuvem
+  - first:
+      213: -2602002194530176455
+    second: _sprt_Aviao
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: _sprt_ZoomComputadorDouglas_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1418
+        width: 1106
+        height: 624
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162299765f947c370800000000000000
+      internalID: 8342718153081037409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_ZoomComputadorDouglas_1
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 1777
+        width: 262
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f597f837f76bc57c0800000000000000
+      internalID: -4081186503788627617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_ZoomComputadorDouglas_2
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 1743
+        width: 205
+        height: 287
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c06a4f184bdf63c0800000000000000
+      internalID: -4364028411089624892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_ZoomComputadorDouglas_3
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 1718
+        width: 226
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff3061fbe95365b0800000000000000
+      internalID: -5376354660248436745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_ZoomComputadorDouglas_4
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 1869
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49a264fbbf164440800000000000000
+      internalID: 4919654535068297546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_ZoomComputadorDouglas_5
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 1525
+        width: 82
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1747c6884bd5809b0800000000000000
+      internalID: -5113734346914892687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_ZoomComputadorDouglas_6
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 930
+        width: 981
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49aee94e255fefd90800000000000000
+      internalID: -7061937429298615660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_ZoomComputadorDouglas_7
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 266
+        width: 1107
+        height: 624
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64fd625363b1b20e0800000000000000
+      internalID: -2293709665581211834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_ZoomComputadorDouglas_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 163
+        width: 185
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823ee8528cc14a1e0800000000000000
+      internalID: -2187591873046060248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_ZoomComputadorDouglas_9
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 68
+        width: 170
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54078b1435de42d90800000000000000
+      internalID: -7123307768752607163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_ZoomComputadorDouglas_10
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 141
+        width: 271
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3daaa213f2204410800000000000000
+      internalID: 1459204706653613370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_ZoomComputadorDouglas_11
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 28
+        width: 169
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51049bd4f8f700a50800000000000000
+      internalID: 6485323716874551317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_ZoomComputadorDouglas_12
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 0
+        width: 180
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e319e52ac29e56190800000000000000
+      internalID: -7969707587650285250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_ZoomComputadorDouglas_13
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 0
+        width: 180
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb6e7845a83bcb30800000000000000
+      internalID: 4308599751047015353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_ZoomComputadorDouglas_14
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 0
+        width: 180
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9dd08d78f0de2db0800000000000000
+      internalID: -4814681185936417377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

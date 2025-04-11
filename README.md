@@ -3,7 +3,7 @@ Práxis Revolucionária is a legacy project created by the former members of the
 
 <h2> Goals </h2>
 <p>
-  Our main goal during this project was to show young people (as represented by our persona) how social injustice took place in our society by representing the rich and the poor with two main characters: <br>Douglas</br> and <br>Gislene</br>, and how, even though they have a very different social condition, they were both submitted to the evils of a horrendous political and economical system.
+  Our main goal during this project was to show young people (as represented by our persona) how social injustice took place in our society by representing the rich and the poor with two main characters: <b>Douglas</b> and <b>Gislene</b>, and how, even though they have a very different social condition, they were both submitted to the evils of a horrendous political and economical system.
 </p>
 
 <h2> Achieved </h2>
